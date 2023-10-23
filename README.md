@@ -1,3 +1,4 @@
+**Video:** https://youtu.be/91yZTzuh8tI
 **CNN Recognizing Traffic Signs** is a computer vision project designed to automatically recognize and classify traffic signs using **Convolutional Neural Networks** (CNNs). The project focuses on enhancing road safety by providing a real-time solution for the detection and identification of various traffic signs, such as stop signs, yield signs, speed limit signs, and more.
 
 **Features:**
